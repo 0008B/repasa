@@ -1,4 +1,4 @@
-# Repaso — Vokabeltrainer
+# Repasa — Vokabeltrainer
 
 Spaced-Repetition-App (SM-2) mit zwei Stapeln (Spanisch, IT-Englisch),
 Fortschritt gespeichert über Netlify Blobs, getrennt nach Zugangscode.
